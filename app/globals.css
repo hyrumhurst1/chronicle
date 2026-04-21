@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background: #fafaf9;
+  color: #0f172a;
+}
+
+body {
+  font-feature-settings: "ss01", "cv11";
+}
